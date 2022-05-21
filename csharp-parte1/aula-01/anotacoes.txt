@@ -1,0 +1,8 @@
+Aula 01. História e ecossistema da linguagem ============================== //
+
+01 Apresentação =============== //
+
+Instrutor: Guilherme Matheus
+
+
+02 História e ecossistema .NET =============== //
