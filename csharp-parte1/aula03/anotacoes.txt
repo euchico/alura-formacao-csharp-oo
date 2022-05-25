@@ -1,0 +1,13 @@
+Aula 03. Variáveis numéricas ============================== //
+
+02 Criando variáveis =============== //
+
+Tipos:
+int -> Inteiro
+
+Comandos:
+- int variavel;
+- Console.Write("Texto");
+
+
+05 Criando variáveis double =============== //

@@ -25,7 +25,7 @@ Instalar o Visual Studio Community
 Criar um projeto do tipo "Aplicativo do Console (.NET Framawork)"
 
 Comandos:
-- Console.WriteLine();
+- Console.WriteLine("Texto");
 - Console.ReadLine();
 
 
