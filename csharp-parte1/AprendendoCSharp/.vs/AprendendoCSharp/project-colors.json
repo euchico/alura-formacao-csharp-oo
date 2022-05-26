@@ -5,7 +5,32 @@
       "ProjectGuid": "72380ca1-8efc-41ee-a861-79101c5694d7",
       "DisplayName": "1-PrimeiroProjeto",
       "ColorIndex": 0
+    },
+    "798788ac-5ba6-447f-b6c9-41c113f12f65": {
+      "ProjectGuid": "798788ac-5ba6-447f-b6c9-41c113f12f65",
+      "DisplayName": "2-CriandoVariaveis",
+      "ColorIndex": 1
+    },
+    "b698d143-cb78-4196-aaa5-2d49cef68888": {
+      "ProjectGuid": "b698d143-cb78-4196-aaa5-2d49cef68888",
+      "DisplayName": "3-CriandoVariaveisPontoFlutuante",
+      "ColorIndex": 2
+    },
+    "7e5aaf0d-55b4-4010-b0fb-b35cfbddc950": {
+      "ProjectGuid": "7e5aaf0d-55b4-4010-b0fb-b35cfbddc950",
+      "DisplayName": "4-ConversoesEOutrosTiposNumericos",
+      "ColorIndex": 3
+    },
+    "62a8f91a-04c0-4c53-8b8b-af36a5652b67": {
+      "ProjectGuid": "62a8f91a-04c0-4c53-8b8b-af36a5652b67",
+      "DisplayName": "5-CaracteresETextos",
+      "ColorIndex": 4
+    },
+    "2dfc1fe9-f5da-4d05-b60a-4f3127c0c633": {
+      "ProjectGuid": "2dfc1fe9-f5da-4d05-b60a-4f3127c0c633",
+      "DisplayName": "6-AtribuicoesDeVariaveis",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 6
 }
