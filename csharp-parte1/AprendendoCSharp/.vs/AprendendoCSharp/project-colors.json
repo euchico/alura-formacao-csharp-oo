@@ -30,7 +30,22 @@
       "ProjectGuid": "2dfc1fe9-f5da-4d05-b60a-4f3127c0c633",
       "DisplayName": "6-AtribuicoesDeVariaveis",
       "ColorIndex": 5
+    },
+    "7907b540-5cd5-4853-9dc1-921ec31031b6": {
+      "ProjectGuid": "7907b540-5cd5-4853-9dc1-921ec31031b6",
+      "DisplayName": "7-Condicionais",
+      "ColorIndex": 6
+    },
+    "b3fd933e-e15f-436f-8cdb-ff7596d264b5": {
+      "ProjectGuid": "b3fd933e-e15f-436f-8cdb-ff7596d264b5",
+      "DisplayName": "8-Condicionais2",
+      "ColorIndex": 7
+    },
+    "833ba1d1-37d1-4eff-8534-d8c281962e6e": {
+      "ProjectGuid": "833ba1d1-37d1-4eff-8534-d8c281962e6e",
+      "DisplayName": "9-Escopo",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 9
 }
