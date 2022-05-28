@@ -45,7 +45,12 @@
       "ProjectGuid": "833ba1d1-37d1-4eff-8534-d8c281962e6e",
       "DisplayName": "9-Escopo",
       "ColorIndex": 8
+    },
+    "f8d4991d-c40d-4bb7-aa52-3d5c3a3bb122": {
+      "ProjectGuid": "f8d4991d-c40d-4bb7-aa52-3d5c3a3bb122",
+      "DisplayName": "10-CalculaPoupanca",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 9
+  "NextColorIndex": 10
 }
