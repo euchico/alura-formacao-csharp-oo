@@ -48,9 +48,19 @@
     },
     "f8d4991d-c40d-4bb7-aa52-3d5c3a3bb122": {
       "ProjectGuid": "f8d4991d-c40d-4bb7-aa52-3d5c3a3bb122",
-      "DisplayName": "10-CalculaPoupanca",
+      "DisplayName": "P10-CalculaPoupanca",
       "ColorIndex": 9
+    },
+    "ebf246da-5096-431a-a73d-b70b7bfc6a52": {
+      "ProjectGuid": "ebf246da-5096-431a-a73d-b70b7bfc6a52",
+      "DisplayName": "P11-CalculaPoupaca2",
+      "ColorIndex": 10
+    },
+    "0408b458-fbb3-4341-81de-b224a2b63fad": {
+      "ProjectGuid": "0408b458-fbb3-4341-81de-b224a2b63fad",
+      "DisplayName": "P12-CalculaInvestimentoLongoPrazo",
+      "ColorIndex": 11
     }
   },
-  "NextColorIndex": 10
+  "NextColorIndex": 12
 }

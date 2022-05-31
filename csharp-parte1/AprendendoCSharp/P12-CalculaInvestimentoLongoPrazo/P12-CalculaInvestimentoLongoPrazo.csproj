@@ -7,7 +7,7 @@
     <ProjectGuid>{0408B458-FBB3-4341-81DE-B224A2B63FAD}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>P12_CalculaInvestimentoLongoPrazo</RootNamespace>
-    <AssemblyName>P12_CalculaInvestimentoLongoPrazo</AssemblyName>
+    <AssemblyName>P12-CalculaInvestimentoLongoPrazo</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

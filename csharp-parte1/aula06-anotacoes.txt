@@ -20,3 +20,6 @@ Comandos:
 
 Comandos:
 - for (declaração; condição; incremento){ }
+
+
+06 Encadeando laços FOR =============== //
