@@ -65,7 +65,92 @@
       "ProjectGuid": "63205990-c52d-4d4f-8e86-7ff8a9286957",
       "DisplayName": "P13-ForEncadeado",
       "ColorIndex": 12
+    },
+    "7e9962a6-ee45-4194-a691-1a22b08bf229": {
+      "ProjectGuid": "7e9962a6-ee45-4194-a691-1a22b08bf229",
+      "DisplayName": "MNM1-CriandoVariaveis",
+      "ColorIndex": 13
+    },
+    "acbac5bf-1ba8-4f24-8ea7-99f5f544fd42": {
+      "ProjectGuid": "acbac5bf-1ba8-4f24-8ea7-99f5f544fd42",
+      "DisplayName": "MNM2-TestaPontoFlutuante",
+      "ColorIndex": 14
+    },
+    "b75be7a1-ed80-48e7-a3c7-c9ba19430906": {
+      "ProjectGuid": "b75be7a1-ed80-48e7-a3c7-c9ba19430906",
+      "DisplayName": "MNM3-ConversoesEOutrosTiposNumericos",
+      "ColorIndex": 15
+    },
+    "d2a0bbcf-d2bd-461d-80ea-12567435c1db": {
+      "ProjectGuid": "d2a0bbcf-d2bd-461d-80ea-12567435c1db",
+      "DisplayName": "MNM4-CaracteresETextos",
+      "ColorIndex": 0
+    },
+    "2cc862e4-5b1d-42a4-b00d-eb920b25c909": {
+      "ProjectGuid": "2cc862e4-5b1d-42a4-b00d-eb920b25c909",
+      "DisplayName": "MNM5-Condicional",
+      "ColorIndex": 1
+    },
+    "6bc84057-6f2c-4008-9616-139784e3f5a1": {
+      "ProjectGuid": "6bc84057-6f2c-4008-9616-139784e3f5a1",
+      "DisplayName": "MNM6-TestaCondicional2",
+      "ColorIndex": 2
+    },
+    "16ff28f7-eb56-4cdf-8d87-0b8581df8b46": {
+      "ProjectGuid": "16ff28f7-eb56-4cdf-8d87-0b8581df8b46",
+      "DisplayName": "MNM7-TestaEscopo",
+      "ColorIndex": 3
+    },
+    "a509df57-9a76-407a-a439-3524a06fbe9e": {
+      "ProjectGuid": "a509df57-9a76-407a-a439-3524a06fbe9e",
+      "DisplayName": "Opcional-AliquotaComIfs",
+      "ColorIndex": 4
+    },
+    "8f3377ac-f0ef-4a57-bff6-6aaa0e68dc8c": {
+      "ProjectGuid": "8f3377ac-f0ef-4a57-bff6-6aaa0e68dc8c",
+      "DisplayName": "Correcao-While",
+      "ColorIndex": 5
+    },
+    "0ccb5281-5381-497e-9e73-274f427b0f30": {
+      "ProjectGuid": "0ccb5281-5381-497e-9e73-274f427b0f30",
+      "DisplayName": "Correcao-WhileEmFor",
+      "ColorIndex": 6
+    },
+    "33f4c96c-e7f5-4c5d-bd39-74ca0ec6ef75": {
+      "ProjectGuid": "33f4c96c-e7f5-4c5d-bd39-74ca0ec6ef75",
+      "DisplayName": "MNM8-LacoDeRepeticaoWhile",
+      "ColorIndex": 7
+    },
+    "82aa7200-869c-4bcf-bdb9-8954a059cfbb": {
+      "ProjectGuid": "82aa7200-869c-4bcf-bdb9-8954a059cfbb",
+      "DisplayName": "MNM9-LacoDeRepeticaoFor",
+      "ColorIndex": 8
+    },
+    "7f2aa275-542f-48b1-9360-fa0a28dc889b": {
+      "ProjectGuid": "7f2aa275-542f-48b1-9360-fa0a28dc889b",
+      "DisplayName": "Correcao-While2",
+      "ColorIndex": 9
+    },
+    "fad4a6ce-f93a-433c-b4e8-4dd2e3983c1d": {
+      "ProjectGuid": "fad4a6ce-f93a-433c-b4e8-4dd2e3983c1d",
+      "DisplayName": "MNM10-LacoDeRepeticaoFor",
+      "ColorIndex": 10
+    },
+    "7fcd6be4-48e1-4c65-a6c9-30a35ce09a2b": {
+      "ProjectGuid": "7fcd6be4-48e1-4c65-a6c9-30a35ce09a2b",
+      "DisplayName": "MNM11-LacoDeRepeticaoFor2",
+      "ColorIndex": 11
+    },
+    "b2e03203-4ed1-412f-80dc-a855db38764d": {
+      "ProjectGuid": "b2e03203-4ed1-412f-80dc-a855db38764d",
+      "DisplayName": "Desafio-MultiploDe3",
+      "ColorIndex": 12
+    },
+    "5807bcc1-e4ff-4122-aa7b-df4cbe4544b1": {
+      "ProjectGuid": "5807bcc1-e4ff-4122-aa7b-df4cbe4544b1",
+      "DisplayName": "Desafio-Fatorial",
+      "ColorIndex": 13
     }
   },
-  "NextColorIndex": 13
+  "NextColorIndex": 14
 }
