@@ -60,7 +60,12 @@
       "ProjectGuid": "0408b458-fbb3-4341-81de-b224a2b63fad",
       "DisplayName": "P12-CalculaInvestimentoLongoPrazo",
       "ColorIndex": 11
+    },
+    "63205990-c52d-4d4f-8e86-7ff8a9286957": {
+      "ProjectGuid": "63205990-c52d-4d4f-8e86-7ff8a9286957",
+      "DisplayName": "P13-ForEncadeado",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 12
+  "NextColorIndex": 13
 }
