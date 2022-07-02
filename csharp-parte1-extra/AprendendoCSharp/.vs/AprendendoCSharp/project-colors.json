@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5f69efce-c43c-4324-b9b3-38f88c0f44df": {
+      "ProjectGuid": "5f69efce-c43c-4324-b9b3-38f88c0f44df",
+      "DisplayName": "1-OlaMundo",
+      "ColorIndex": 0
+    },
+    "2ed93e90-7d21-42f1-b47e-9384f34455a7": {
+      "ProjectGuid": "2ed93e90-7d21-42f1-b47e-9384f34455a7",
+      "DisplayName": "2-CriandoVariaveis",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
