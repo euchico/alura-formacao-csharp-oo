@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-OlaMundo", "1-OlaMundo\1-OlaMundo.csproj", "{5F69EFCE-C43C-4324-B9B3-38F88C0F44DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-PrimeiroPrograma", "1-OlaMundo\1-PrimeiroPrograma.csproj", "{5F69EFCE-C43C-4324-B9B3-38F88C0F44DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-CriandoVariaveis", "2-CriandoVariaveis\2-CriandoVariaveis.csproj", "{2ED93E90-7D21-42F1-B47E-9384F34455A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-CriandoVariaveis", "2-CriandoVariaveis\2-CriandoVariaveis.csproj", "{2ED93E90-7D21-42F1-B47E-9384F34455A7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3-CriandoVariaveisPontoFlutuante", "3-TestaPontoFlutuante\3-CriandoVariaveisPontoFlutuante.csproj", "{28102861-ECE4-4D88-94F4-C8522194583D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-ConversoesEOutrosTipos", "4-ConversoesEOutrosTipos\4-ConversoesEOutrosTipos.csproj", "{6E72E74A-171F-41C6-B5EC-FCEAD694A94E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{2ED93E90-7D21-42F1-B47E-9384F34455A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2ED93E90-7D21-42F1-B47E-9384F34455A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2ED93E90-7D21-42F1-B47E-9384F34455A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28102861-ECE4-4D88-94F4-C8522194583D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28102861-ECE4-4D88-94F4-C8522194583D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28102861-ECE4-4D88-94F4-C8522194583D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28102861-ECE4-4D88-94F4-C8522194583D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E72E74A-171F-41C6-B5EC-FCEAD694A94E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E72E74A-171F-41C6-B5EC-FCEAD694A94E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E72E74A-171F-41C6-B5EC-FCEAD694A94E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E72E74A-171F-41C6-B5EC-FCEAD694A94E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

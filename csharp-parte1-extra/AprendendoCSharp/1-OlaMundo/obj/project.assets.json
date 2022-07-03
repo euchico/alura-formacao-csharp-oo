@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eufra\\Desenvolvimento\\Estudo\\alura-formacao-csharp-oo\\csharp-parte1-extra\\AprendendoCSharp\\1-OlaMundo\\1-OlaMundo.csproj",
-      "projectName": "1-OlaMundo",
-      "projectPath": "C:\\Users\\eufra\\Desenvolvimento\\Estudo\\alura-formacao-csharp-oo\\csharp-parte1-extra\\AprendendoCSharp\\1-OlaMundo\\1-OlaMundo.csproj",
+      "projectUniqueName": "C:\\Users\\eufra\\Desenvolvimento\\Estudo\\alura-formacao-csharp-oo\\csharp-parte1-extra\\AprendendoCSharp\\1-OlaMundo\\1-PrimeiroPrograma.csproj",
+      "projectName": "1-PrimeiroPrograma",
+      "projectPath": "C:\\Users\\eufra\\Desenvolvimento\\Estudo\\alura-formacao-csharp-oo\\csharp-parte1-extra\\AprendendoCSharp\\1-OlaMundo\\1-PrimeiroPrograma.csproj",
       "packagesPath": "C:\\Users\\eufra\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\eufra\\Desenvolvimento\\Estudo\\alura-formacao-csharp-oo\\csharp-parte1-extra\\AprendendoCSharp\\1-OlaMundo\\obj\\",
       "projectStyle": "PackageReference",

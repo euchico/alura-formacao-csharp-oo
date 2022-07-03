@@ -9,5 +9,8 @@ class Program
         int idade = 37;
 
         Console.WriteLine("Minha idade é " + idade);
+
+        Console.WriteLine("Tecle enter para fechar...");
+        Console.ReadLine();
     }
 }
