@@ -10,7 +10,22 @@
       "ProjectGuid": "2ed93e90-7d21-42f1-b47e-9384f34455a7",
       "DisplayName": "2-CriandoVariaveis",
       "ColorIndex": 1
+    },
+    "c2d28f67-a021-4fd6-a252-c2bc82b87e58": {
+      "ProjectGuid": "c2d28f67-a021-4fd6-a252-c2bc82b87e58",
+      "DisplayName": "5-CaracteresETextos",
+      "ColorIndex": 2
+    },
+    "6e72e74a-171f-41c6-b5ec-fcead694a94e": {
+      "ProjectGuid": "6e72e74a-171f-41c6-b5ec-fcead694a94e",
+      "DisplayName": "4-ConversoesEOutrosTipos",
+      "ColorIndex": 3
+    },
+    "5555b5c5-eddc-4da6-9bf1-46dbf95e1869": {
+      "ProjectGuid": "5555b5c5-eddc-4da6-9bf1-46dbf95e1869",
+      "DisplayName": "6-AtribuicoesDeVariaveis",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 5
 }
